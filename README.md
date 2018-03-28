@@ -14,3 +14,9 @@ So, here are all the links to my docs - they are not in any order and may be out
      Desc: I understand that this is not something that many people want but it has saved me multiple times in finding odd issues with
      software handling touch poorly. It is upfront about what it is, please do not misuse this. I also accept no responsibility for
      anything going wrong with this or misuse of this. It is uploaded with good intentions.
+
+3. RTF to PNG
+     Link: https://github.com/Rubicen/RTF_to_PNG
+     Desc: Super specific app but other ones that do it are often expensive, couldn't find another that did it for free and was accurate
+     enough so here is a free version. Should handle any font as long as word/excel has it and will handle any color. If it is printed out
+     poorly then some of the settings can be played with if needed (outlined in the readme of the repo)
