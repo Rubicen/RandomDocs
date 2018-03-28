@@ -20,3 +20,8 @@ So, here are all the links to my docs - they are not in any order and may be out
      Desc: Super specific app but other ones that do it are often expensive, couldn't find another that did it for free and was accurate
      enough so here is a free version. Should handle any font as long as word/excel has it and will handle any color. If it is printed out
      poorly then some of the settings can be played with if needed (outlined in the readme of the repo)
+
+4. FirebirdSQLFormatter WIP
+     Link: https://github.com/Rubicen/FirebirdSQLFormatter
+     Desc: Super WIP project, barely works at all, currently just formats it to plain text (removes all) with simple linebreaks. 
+     Will try update over time
