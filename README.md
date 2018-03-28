@@ -8,3 +8,9 @@ So, here are all the links to my docs - they are not in any order and may be out
      Link: https://github.com/Rubicen/Google_API_Setup_Documentation
      Desc: Setup from creation of acc, the setup of the keys, the setup of API's, the keystore generation, the setup for the app, and 
      information that should be relevant as well as a test html file that will allow you to test if the setup is correct for the keys 
+
+2. A not scammy key logger
+     Link: https://github.com/Rubicen/KeyLogger_VISIBLE
+     Desc: I understand that this is not something that many people want but it has saved me multiple times in finding odd issues with
+     software handling touch poorly. It is upfront about what it is, please do not misuse this. I also accept no responsibility for
+     anything going wrong with this or misuse of this. It is uploaded with good intentions.
